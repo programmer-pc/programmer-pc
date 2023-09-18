@@ -2,11 +2,16 @@
 
 <html>
 <head>
- <h1 style="background-color:rgb(106, 90, 205);">BU BENİM YAZILIM ALANIM</h1>
-
+ <style>
+body {background-color:black;}
+h1 {color:white;}
+p {color:red;}
+</style>
 </head>
 <body>
 <p> Yazmaya devam edeceğim </p>
+<h1>BU BENİM YAZILIM ALANIM</h1>
+
 
 </body>
 

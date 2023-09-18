@@ -9,10 +9,10 @@ p {color:red;}
 </style>
 </head>
 <body>
-<p> Yazmaya devam edeceğim </p>
+
 <h1>BU BENİM YAZILIM ALANIM</h1>
 
-
+<p> Yazmaya devam edeceğim </p>
 </body>
 
 </html>
